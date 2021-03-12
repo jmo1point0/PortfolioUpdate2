@@ -1,0 +1,38 @@
+.navbar, 
+.navbar-expand-sm, 
+.navbar-light,
+.bg-light {
+    color: rgb(220,220,220)!important;
+    background-image: url("assets/background.jpg");
+    /*background-color:rgb(220,220,220)!important;*/
+    
+}
+
+nav a:hover {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: rgb(204, 199, 199)
+    font-size: 1.1rem;
+}
+
+body {
+    background-color: rgb(228, 224, 224);
+}
+
+.btn {
+    background-color: rgb(220,220,220);
+    border: rgb(220,220,220);
+    color: rgb(28, 26, 26);
+}
+
+.btn:hover {
+    background-color:rgb(220,220,220);
+    color: rgb(18, 92, 255);
+    font-size: 1.2rem;
+    
+}
+
+footer {
+    background-image: url("assets/background.jpg");  
+    /*background-color:rgb(220,220,220)!important;*/
+}
