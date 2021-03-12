@@ -15,7 +15,7 @@ Contributions made by Jordan Mossing using various technolgies.
 
  ## ![Image](./assets/MobilePortfolio.PNG)
  
- ## ![Image](./assets/MobilePortfolio2.PNG)
+ ## ![Image](./assets/MobilePortfolio2.pngg)
 
  ## Links:
 
