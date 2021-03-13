@@ -10,13 +10,13 @@
 
 nav a:hover {
     text-transform: uppercase;
-    font-weight: 500;
-    color: rgb(204, 199, 199)
+    font-weight: 600;
+    color: rgb(216, 215, 215);
     font-size: 1.1rem;
 }
 
 body {
-    background-color: rgb(228, 224, 224);
+    background-color: rgb(238, 234, 234);
 }
 
 .btn {
