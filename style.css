@@ -2,7 +2,7 @@
 .navbar-expand-sm, 
 .navbar-light,
 .bg-light {
-    color: rgb(220,220,220)!important;
+   /*color: rgb(211,211,211)!important;*/
     background-image: url("assets/background.jpg");
     /*background-color:rgb(220,220,220)!important;*/
     
@@ -16,7 +16,7 @@ nav a:hover {
 }
 
 body {
-    background-color: rgb(238, 234, 234);
+    background-color: rgb(211,211,211);
 }
 
 .btn {
@@ -31,6 +31,24 @@ body {
     font-size: 1.2rem;
     
 }
+
+#about {
+    background: rgb(221,221,221);
+    color: rgb(29, 26, 26);
+}
+
+#about p {
+    font-size: 18px;
+}
+/*#about img {
+    border-radius: 50%;
+}*/
+
+#picture {
+    border-radius: 50%;
+}
+
+
 
 footer {
     background-image: url("assets/background.jpg");  
