@@ -11,12 +11,12 @@
 nav a:hover {
     text-transform: uppercase;
     font-weight: 600;
-    color: rgb(216, 215, 215);
+    /*color: rgb(216, 215, 215);*/
     font-size: 1.1rem;
 }
 
 body {
-    background-color: rgb(211,211,211);
+    background-color: rgb(220,220,220);
 }
 
 .btn {
@@ -26,14 +26,14 @@ body {
 }
 
 .btn:hover {
-    background-color:rgb(220,220,220);
+    background-color:rgb(208, 209, 171);
     color: rgb(18, 92, 255);
     font-size: 1.2rem;
     
 }
 
 #about {
-    background: rgb(221,221,221);
+    background: rgb(220,220,220);
     color: rgb(29, 26, 26);
 }
 
@@ -48,6 +48,9 @@ body {
     border-radius: 50%;
 }
 
+#contact a:hover {
+    text-transform: uppercase;
+}
 
 
 footer {
