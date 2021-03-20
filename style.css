@@ -53,10 +53,13 @@ body {
 
 #contact a:hover {
     text-transform: uppercase;
+    font-size: 1.05rem;
 }
 
 
-footer {
+#contact {
     background-image: url("assets/background.jpg");  
     /*background-color:rgb(220,220,220)!important;*/
+    /*background-color: rgb(29, 26, 26);*/
+    position: relative;
 }
