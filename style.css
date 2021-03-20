@@ -33,16 +33,19 @@ body {
 }
 
 #about {
-    background: rgb(220,220,220);
+    background: #f3f2ef;
+    /*background: #e9e5df;*/
+    /*background: #dce6f1;*/
+    /*background: rgb(210,210,210)*/
     color: rgb(29, 26, 26);
 }
 
 #about p {
     font-size: 18px;
 }
-/*#about img {
-    border-radius: 50%;
-}*/
+
+
+
 
 #picture {
     border-radius: 50%;
