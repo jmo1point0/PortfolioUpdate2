@@ -17,6 +17,7 @@ nav a:hover {
 
 body {
     background-color: rgb(220,220,220);
+    box-shadow: 3px 3px 3px 3px grey;
 }
 
 .btn {
@@ -38,24 +39,37 @@ body {
     /*background: #dce6f1;*/
     /*background: rgb(210,210,210)*/
     color: rgb(29, 26, 26);
+    
 }
 
 #about p {
     font-size: 18px;
 }
 
+#portfolio1 {
+    box-shadow: 3px 3px 3px 3px #d6cec2;
+}
 
+#portfolio2 {
+    box-shadow: 3px 3px 3px 3px #d6cec2;
+}
 
+#portfolio3 {
+    box-shadow: 3px 3px 3px 3px #d6cec2;
+}
+
+#portfolio4 {
+    box-shadow: 3px 3px 3px 3px #d6cec2;
+}
 
 #picture {
     border-radius: 50%;
+    box-shadow: 3px 3px 3px 3px grey;
 }
 
 #contact a:hover {
     text-transform: uppercase;
-    font-size: 1.05rem;
-}
-
+    }
 
 #contact {
     background-image: url("assets/background.jpg");  
